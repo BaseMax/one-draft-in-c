@@ -153,3 +153,4 @@ Define function main
     VALUE:16,number
 ```
 
+© Copyright Max Base 2018-2020
